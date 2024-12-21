@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript error: accessing an array element with an index that is out of bounds. The `bug.as` file contains the erroneous code, while `bugSolution.as` provides a solution. The error typically arises when an index is negative, greater than or equal to the array's length, or when an uninitialized array is accessed.
